@@ -50,8 +50,9 @@ Each record contains synthetic features such as:
 
 | File Name                          | Description                                     |
 |-----------------------------------|-------------------------------------------------|
-| `smartguard_federated_simulation.ipynb` | Jupyter Notebook simulation of the algorithm  |
+| `smartguardAlgo.ipynb` | Jupyter Notebook simulation of the algorithm  |
 | `plot.png`                         | Accuracy over federated rounds (visual result)  |
+| `LICENSE`| MIT License|
 | `README.md`                        | Project overview and documentation              |
 
 ---
