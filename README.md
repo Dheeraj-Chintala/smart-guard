@@ -1,4 +1,7 @@
-#  SmartGuard: Federated Threat Detection Using Differential Privacy
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9d58,100:4285F4&height=200&section=header&text=SmartGuard%20-%20Privacy%20Preserving%20Threat%20Detection&fontSize=30&fontColor=ffffff" />
+</p>
+
 
 SmartGuard is a privacy-preserving threat detection algorithm designed for mobile environments. It leverages **Federated Learning** and **Differential Privacy** to collaboratively train a machine learning model across multiple user devices **without sharing any raw data**.
 
