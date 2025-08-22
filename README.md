@@ -1,4 +1,4 @@
-# 🔐 SmartGuard: Federated Threat Detection Using Differential Privacy
+#  SmartGuard: Federated Threat Detection Using Differential Privacy
 
 SmartGuard is a privacy-preserving threat detection algorithm designed for mobile environments. It leverages **Federated Learning** and **Differential Privacy** to collaboratively train a machine learning model across multiple user devices **without sharing any raw data**.
 
@@ -13,7 +13,7 @@ To detect suspicious or malicious app behavior (e.g., spyware, data leaks) using
 
 ---
 
-## 🧠 Core Algorithm
+##  Core Algorithm
 
 SmartGuard simulates a federated learning setup with the following features:
 - **Multiple Clients:** Each simulating a user’s mobile device
@@ -23,7 +23,7 @@ SmartGuard simulates a federated learning setup with the following features:
 
 ---
 
-## ⚙️ Simulation Parameters
+##  Simulation Parameters
 
 | Parameter            | Description                                                  |
 |----------------------|--------------------------------------------------------------|
@@ -46,7 +46,7 @@ Each record contains synthetic features such as:
 
 ---
 
-## 📁 Files
+##  Files
 
 | File Name                          | Description                                     |
 |-----------------------------------|-------------------------------------------------|
@@ -64,7 +64,7 @@ Due to added noise, a slight fluctuation or drop in accuracy is expected — whi
 
 ---
 
-## 💡 Use Cases
+##  Use Cases
 
 - Mobile security apps
 - Privacy-preserving malware detection
@@ -73,14 +73,14 @@ Due to added noise, a slight fluctuation or drop in accuracy is expected — whi
 
 ---
 
-## 🔗 Demo/Visualization
+##  Demo/Visualization
 
 ![Accuracy Plot](plot.png)
 
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. Clone the repo
    ```bash
@@ -94,6 +94,3 @@ Due to added noise, a slight fluctuation or drop in accuracy is expected — whi
 3. Run Notebook
    ```bash
    jupyter notebook smartguardAlgo.ipynb
-
-
-   
